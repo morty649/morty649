@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @maruthienugula 
-- 👀 I’m interested in software development
-- 
+- 👀 I am a major in computer science engineering
 - 📫 How to reach me enugulamaruthi@gmail.com
