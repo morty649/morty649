@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @maruthienugula 
-- 👀 I am a major in computer science engineering
-- 📫 How to reach me enugulamaruthi@gmail.com
+- 👀 Major in CS
+- 📫 How to reach me --> enugulamaruthi@gmail.com
