@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @maruthienugula 
-- 👀 Major in CS
-- 📫 How to reach me --> enugulamaruthi@gmail.com
+https://morty649.github.io
+-----------------------------
+ enugulamaruthi@gmail.com
