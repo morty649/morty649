@@ -1,3 +1,3 @@
-![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
+![Visitor Count](https://komarev.com/ghpvc/?username=morty649&color=blue)
 
 Well, still contributing !!!
