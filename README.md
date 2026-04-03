@@ -1,7 +1,7 @@
 Hello, 
 I am Maruthi
 
-My area of research and projects include but not limited to Reinforcement learning, Agentic AI and Neural Networks
+My area of **interest and work** include but not limited to Reinforcement learning, Agentic AI and Neural Networks
 
 
 Want to know more about What I know and What are the projects that i have done and also contributed to 
