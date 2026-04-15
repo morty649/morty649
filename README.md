@@ -10,4 +10,4 @@ Feel free to check out the pins as well as repositories to get to know me better
 ![Visitor Count](https://komarev.com/ghpvc/?username=morty649&color=blue)
 
 Well, still contributing !!!
-Feel free to leave a  feedback on my repo's if you have enjoyed through !!!
+Feel free to create an issue in the repo if any issue arised when looking through !!
