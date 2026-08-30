@@ -3,9 +3,8 @@ I am Maruthi
 
 My area of **interest and work** include but not limited to Reinforcement learning, Agentic AI and Neural Networks
 
+Interned at Scaled focus working on an RLM harness model migration plugin.
 
-Want to know more about What I know and What are the projects that i have done and also contributed to 
-Feel free to check out the pins as well as repositories to get to know me better.
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=morty649&color=blue)
 
